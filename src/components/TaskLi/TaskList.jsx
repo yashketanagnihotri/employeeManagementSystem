@@ -1,7 +1,7 @@
 import React from "react";
 import AcceptTask from "./AcceptTask";
 import CompleteTask from "./CompleteTask";
-import NewTask from "./newTask";
+import NewTask from "./NewTask";
 import FailedTask from "./FailedTask";
 
 const TaskList=({data})=>{
